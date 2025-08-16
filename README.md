@@ -4,7 +4,7 @@ A modern, responsive React login application with beautiful UI design and compre
 
 ## 🌐 Live Demo
 
-**Live Application**: [https://loginpagereact1.netlify.app/login](https://loginpagereact1.netlify.app/login)
+**Live Application**: [https://loginpager.netlify.app/login](https://loginpager.netlify.app/login)
 
 ## Features
 
